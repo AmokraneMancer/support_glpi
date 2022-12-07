@@ -10404,7 +10404,7 @@ msgstr ""
 
 #: src/Auth.php:1216 src/Auth.php:1765
 msgid "GLPI internal database"
-msgstr "Cloud4Dev"
+msgstr "Base interne GLPI"
 
 #: src/Marketplace/View.php:1052
 msgid "GLPI provides a new marketplace to download and install plugins."
